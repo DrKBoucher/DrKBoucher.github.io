@@ -11,6 +11,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+    - Getting Started: "getstarted"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -34,8 +35,7 @@ round-avatar: false
 social-network-links:
   email: "dr.kristen.boucher@gmail.com"
   facebook: "https://www.facebook.com/NVNGNutrition"
-#  telephone: +13153734346
-#  ORCID: your ORCID ID
+ORCID: "0009-0004-5652-2008"
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
